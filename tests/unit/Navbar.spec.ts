@@ -16,7 +16,7 @@ describe('Navbar', () => {
         all: new Map(),
         ids: [],
         loaded: false
-      },
+      },aaa
       authors: {
         ids: [],
         all: new Map(),
